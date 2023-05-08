@@ -9,5 +9,5 @@ nod app.js
 ```
 
 O senhor é o meu pastor e nada me faltará
-Amém!
+
 
